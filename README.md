@@ -83,7 +83,7 @@ Server=SMS\SQLEXPRESS;Database=StdForm;Trusted_Connection=True;TrustServerCertif
 
 ## License
 
-No license has been specified yet. Consider adding one (e.g. MIT) if you'd like others to use or contribute to this project.
+No license.
 
 ## Author
 
