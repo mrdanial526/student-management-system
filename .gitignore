@@ -1,0 +1,14 @@
+## Visual Studio / .NET build artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## OS files
+.DS_Store
+Thumbs.db
